@@ -1,5 +1,5 @@
 # Bootstrap-Portfolio
 
-I build this portfolio with bootstrap and html/css.  
+I built this portfolio with bootstrap and html/css.  
 
 
